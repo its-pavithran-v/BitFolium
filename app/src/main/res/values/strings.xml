@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BitFolium</string>
+    <string name="com_auth0_domain">bitfolium.us.auth0.com</string>
+    <string name="com_auth0_client_id">aj2XdE5G2sBmkxqZDbll7kEnKLARBIR3</string>
+    <string name="com_auth0_scheme">demo</string>
+</resources>
